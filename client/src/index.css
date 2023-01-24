@@ -1,0 +1,7 @@
+body {
+    background-color: rgba(0,183,255, 1);
+    background-image: url("https://cdn.pixabay.com/photo/2018/04/30/23/47/brick-wall-3364411_1280.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: bottom; */
+}
