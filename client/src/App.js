@@ -23,7 +23,7 @@ const App = () => {
               Sahayak
            </Typography>
            <img src={memories} className={classes.image}alt="memories"  height={60}></img>
-           <div style={{fontSize: "15px", display: "block", color: "grey", width: "fit-content", float: "right", textAlign:"right"}}>~ Developed by Ujjwal Sachdeva</div>
+           <div style={{fontSize: "15px", display: "block", color: "grey", width: "fit-content", float: "right", textAlign:"right"}}>~ Developed by Ujjwal</div>
          </AppBar>
          <Grow in>
            <Container>
